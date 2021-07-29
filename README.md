@@ -1,4 +1,7 @@
- ### Hi there, I'm Pattarapol Sangsunee, U can call me "Diz"
+ ## Hi there, I'm Pattarapol Sangsunee, U can call me "Diz"
+ ### Contract me
+ #### Gmail: pattarapol262@gmail.com
+ #### Facebook: [Pattarapol Sangsunee](https://www.facebook.com/dit.forward/)
 <img src="https://img.shields.io/github/followers/adisus2-plasma?style=social"/>
 
 <p align="center">
