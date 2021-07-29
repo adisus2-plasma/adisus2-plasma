@@ -1,7 +1,4 @@
  ## Hi there, I'm Pattarapol Sangsunee, U can call me "Diz"
- ### Contract me
- #### Gmail: pattarapol262@gmail.com
- #### Facebook: [Pattarapol Sangsunee](https://www.facebook.com/dit.forward/)
  <img src="https://img.shields.io/github/followers/adisus2-plasma?style=social"/>
 
 <p align="center">
@@ -33,6 +30,10 @@
 <img src="https://img.shields.io/badge/-Springboot-black?style=flat-square&logo=Springboot"/>
 <img src="https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana"/>
 </p>
+
+ ### Contract me
+ #### Gmail: pattarapol262@gmail.com
+ #### Facebook: [Pattarapol Sangsunee](https://www.facebook.com/dit.forward/)
 
 <h2 align="center">
   My Github Stats
