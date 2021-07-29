@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana"/>
 </p>
 
- ### Contract me
+ ### Contact me
  #### Gmail: pattarapol262@gmail.com
  #### Facebook: [Pattarapol Sangsunee](https://www.facebook.com/dit.forward/)
 
