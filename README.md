@@ -39,18 +39,4 @@
   My Github Stats
 </h2>
 
-<p align = "center">
-    <img  src = "https://github-readme-stats.vercel.app/api?username=adisus2-plasma&show_icons=true&theme=tokyonight&line_height=27">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adisus2-plasma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adisus2-plasma"></p>
-
-<p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adisus2-plasma&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adisus2-plasma&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</p>
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=adisus2-plasma&theme=redical">
-</p> 
-
-
 
