@@ -1,15 +1,7 @@
  ## Hi there, I'm Pattarapol Sangsunee, U can call me "Diz"
  <img src="https://img.shields.io/github/followers/adisus2-plasma?style=social"/>
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/repos/adisus2-plasma"/> 
-
- <img src="https://badges.pufler.dev/years/adisus2-plasma"/>
-
-</p>
-
-<p align="center">I'm a 3rd year pursuing Bachelor of Science Programming at SIT(School Information Technology) from KMUTT(King Mongkut's University of Technology Thonburi) in Thailand, I used to intern at Vonder as a Devops Engineer, When i was 2nd year, I'm a person who likes to ask questions about many things and always will try to find the answer, I love science, especially physics and astronomy(but i hate math lol). And that makes me become myself</p>
+<p align="center">I'm a 4rd year pursuing Bachelor of Science Programming at SIT(School Information Technology) from KMUTT(King Mongkut's University of Technology Thonburi) in Thailand, I was a DevOps Engineer now, And learning more about Cyber Security to move to Cyber Security Engineer, I'm a person who likes to ask questions about many things and always will try to find the answer, I love science, especially physics and astronomy(but i hate math lol). And that makes me become myself</p>
 
 <h2 align="center"> Technology Stack </h2>
 
