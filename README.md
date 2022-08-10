@@ -27,8 +27,5 @@
  #### Gmail: pattarapol262@gmail.com
  #### Facebook: [Pattarapol Sangsunee](https://www.facebook.com/dit.forward/)
 
-<h2 align="center">
-  My Github Stats
-</h2>
 
 
